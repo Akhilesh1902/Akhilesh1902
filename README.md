@@ -32,8 +32,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with **2 years
 
 ## 📈 **GitHub Stats**  
 
-![Akhilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yAkhilesh1902&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yAkhilesh1902&layout=compact&theme=radical)  
+![Akhilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhilesh1902&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh1902&layout=compact&theme=radical)  
 
 ---
 
